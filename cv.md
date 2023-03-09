@@ -1,5 +1,7 @@
 # Andrew Pistsou | Curriculum Vitae
 
+![image](https://user-images.githubusercontent.com/88047742/224093106-c1d36989-e436-4e67-88af-47f752c9f5f5.png)
+
 ## Contact Information
 
 * **Phone:** + 375 44 567 51 30 / + 375 33 676 51 30
