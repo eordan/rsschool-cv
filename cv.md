@@ -12,7 +12,6 @@
 * **Telegram:** [siderealinfluence](https://t.me/siderealinfluence)
 * **Location:** Novopolotsk, Belarus (willing to relocate / work remotely)
 
-
 ## Objective  
 
 Applying for a position of a Junior Front End Developper.
