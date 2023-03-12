@@ -1,4 +1,4 @@
 # rsschool-cv
-Curriculum vitae:
+rsschool-cv-html:
 
-https://eordan.github.io/rsschool-cv/cv
+https://eordan.github.io/rsschool-cv/
